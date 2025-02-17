@@ -249,7 +249,7 @@ class MySqlGrammar extends Grammar
     }
 
     /**
-     * Create the main create table clause.
+     * Create the shop.blade.php create table clause.
      *
      * @param  \Illuminate\Database\Schema\Blueprint  $blueprint
      * @param  \Illuminate\Support\Fluent  $command
