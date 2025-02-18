@@ -22,17 +22,17 @@
 <section class="relative">
     <div class="fixed bottom-8 right-8 z-20 flex flex-col items-center space-y-2">
         <!-- Phone -->
-        <a href="tel:0939.11.72.82" class="bg-gradient-to-r from-cyan-600 to-blue-600 text-white rounded-full w-12 h-12 flex items-center justify-center shadow-md transform transition duration-300 hover:scale-110 hover:shadow-lg hover:rotate-3 animate-shake">
+        <a href="tel:0948066514" class="bg-gradient-to-r from-cyan-600 to-blue-600 text-white rounded-full w-12 h-12 flex items-center justify-center shadow-md transform transition duration-300 hover:scale-110 hover:shadow-lg hover:rotate-3 animate-shake">
             <i class="fas fa-phone text-xl speedial-icon md:text-2xl"></i>
         </a>
 
         <!-- Messenger -->
-        <a href="https://www.facebook.com/profile.php?id=100032362076428&mibextid=wwXIfr&rdid=qgZXTTwwtMh50JXX&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F15ikuLS6ZY%2F%3Fmibextid%3DwwXIfr#" class="bg-gradient-to-r from-cyan-600 to-blue-600 text-white rounded-full w-12 h-12 flex items-center justify-center shadow-md transform transition duration-300 hover:scale-110 hover:shadow-lg hover:rotate-3 animate-shake" target="_blank">
+        <a href="https://www.facebook.com/hieu.tranmanh.39589" class="bg-gradient-to-r from-cyan-600 to-blue-600 text-white rounded-full w-12 h-12 flex items-center justify-center shadow-md transform transition duration-300 hover:scale-110 hover:shadow-lg hover:rotate-3 animate-shake" target="_blank">
             <i class="fab fa-facebook-messenger speedial-icon text-xl md:text-2xl"></i>
         </a>
 
         <!-- Zalo -->
-        <a href="https://zalo.me/0939117282" class="bg-gradient-to-r from-cyan-600 to-blue-600 text-white rounded-full w-12 h-12 flex items-center justify-center shadow-md transform transition duration-300 hover:scale-110 hover:shadow-lg hover:rotate-3 animate-shake" target="_blank">
+        <a href="https://zalo.me/0948066514" class="bg-gradient-to-r from-cyan-600 to-blue-600 text-white rounded-full w-12 h-12 flex items-center justify-center shadow-md transform transition duration-300 hover:scale-110 hover:shadow-lg hover:rotate-3 animate-shake" target="_blank">
             <span class="speedial-icon">Zalo</span>
         </a>
 

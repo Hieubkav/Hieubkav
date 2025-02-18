@@ -1,5 +1,6 @@
 import './bootstrap';
 import 'preline';
+import 'flowbite';
 
 import AOS from 'aos';
 import 'aos/dist/aos.css';

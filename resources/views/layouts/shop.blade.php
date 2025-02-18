@@ -29,6 +29,7 @@
 </main>
 @include('component.shop.footer')
 @include('component.shop.speedial')
+@include('component.shop.modal')
 
 @livewire('notifications')
 

@@ -7,5 +7,6 @@
     @include('component.storeFront.story')
     @include('component.storeFront.exp')
     @include('component.storeFront.hoppy')
+    @include('component.storeFront.galery')
 
 @endsection
