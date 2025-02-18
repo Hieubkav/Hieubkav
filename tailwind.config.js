@@ -6,10 +6,19 @@ export default {
         "./resources/**/*.blade.php",
         "./resources/**/*.js",
         "./resources/**/*.vue",
+        'node_modules/preline/dist/*.js',
     ],
     theme: {
-        extend: {},
+        extend: {
+            gridTemplateColumns: {
+                'desktop': 'repeat(3, minmax(0, 1fr))',
+                'tablet': 'repeat(2, minmax(0, 1fr))',
+            }
+        },
     },
-    plugins: [],
+    plugins: [
+        require('preline/plugin'),
+    ],
+    darkMode: 'class',
 }
 
