@@ -20,7 +20,7 @@
                 <div class="book-card cursor-pointer" onclick="this.classList.toggle('is-flipped')">
                     <div class="book-card-inner">
                         <div class="book-card-front">
-                            <img src="https://th.bing.com/th/id/OIP.EI954JYRlb984wmLRPiiwwHaLX?rs=1&pid=ImgDetMain"
+                            <img data-aos="zoom-in-up" src="https://th.bing.com/th/id/OIP.EI954JYRlb984wmLRPiiwwHaLX?rs=1&pid=ImgDetMain"
                                  alt="Homo Deus"
                                  class="w-full h-64 sm:h-48 object-cover rounded-lg shadow-md"
                             />
@@ -40,7 +40,7 @@
                 <!-- Book 2 -->
                 <div class="book-card cursor-pointer" onclick="this.classList.toggle('is-flipped')">
                     <div class="book-card-inner">
-                        <div class="book-card-front">
+                        <div data-aos="zoom-in-up" class="book-card-front">
                             <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1631251990i/11271902.jpg"
                                  alt="Khuyến Học"
                                  class="w-full h-64 sm:h-48 object-cover rounded-lg shadow-md"
@@ -62,7 +62,7 @@
                 <div class="book-card cursor-pointer" onclick="this.classList.toggle('is-flipped')">
                     <div class="book-card-inner">
                         <div class="book-card-front">
-                            <img src="https://th.bing.com/th/id/OIP.Td5QRhPXWc7jt6Zb8okadQHaL2?rs=1&pid=ImgDetMain"
+                            <img data-aos="zoom-in-up" src="https://th.bing.com/th/id/OIP.Td5QRhPXWc7jt6Zb8okadQHaL2?rs=1&pid=ImgDetMain"
                                  alt="Deep Work"
                                  class="w-full h-64 sm:h-48 object-cover rounded-lg shadow-md"
                             />

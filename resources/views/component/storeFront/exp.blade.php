@@ -3,7 +3,7 @@
 
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
         <!-- Thanshoes.vn - Website thương mại điện tử bán giày -->
-        <div
+        <div  data-aos="fade-up"
             class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-300 border border-blue-100/50 hover:border-blue-300 group">
             <!-- Image container -->
             <div class="h-52 overflow-hidden relative">
@@ -63,7 +63,7 @@
             </div>
         </div>
         <!-- https://vitrasau.info.vn/GlassTry/  -->
-        <div
+        <div data-aos="fade-up" data-aos-duration="1000"
             class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-300 border border-blue-100/50 hover:border-blue-300 group">
             <!-- Image container -->
             <div class="h-52 overflow-hidden relative">
@@ -125,7 +125,7 @@
             </div>
         </div>
         <!-- https://daohanthetindungcantho.com -->
-        <div
+        <div  data-aos="fade-up" data-aos-duration="1500"
             class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-300 border border-blue-100/50 hover:border-blue-300 group">
             <!-- Image container -->
             <div class="h-52 overflow-hidden relative">
@@ -179,7 +179,7 @@
             </div>
         </div>
         <!-- https://quettheuytincantho.com -->
-        <div
+        <div data-aos="fade-up" data-aos-duration="2000"
             class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-300 border border-blue-100/50 hover:border-blue-300 group">
             <!-- Image container -->
             <div class="h-52 overflow-hidden relative">
@@ -233,7 +233,7 @@
             </div>
         </div>
         <!-- https://thietbiytemientay.com/-->
-        <div
+        <div data-aos="fade-up" data-aos-duration="2500"
             class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-300 border border-blue-100/50 hover:border-blue-300 group">
             <!-- Image container -->
             <div class="h-52 overflow-hidden relative">
@@ -291,7 +291,7 @@
             </div>
         </div>
         <!-- https://vitrasau.info.vn/aladin -->
-        <div
+        <div data-aos="fade-up" data-aos-duration="3000"
             class="bg-white rounded-xl overflow-hidden shadow-md hover:shadow-2xl transform hover:-translate-y-1 transition-all duration-300 border border-blue-100/50 hover:border-blue-300 group">
             <!-- Image container -->
             <div class="h-52 overflow-hidden relative">

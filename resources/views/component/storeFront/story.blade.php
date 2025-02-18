@@ -6,7 +6,7 @@
                 class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
                 2001
             </div>
-            <div
+            <div data-aos="fade-right"
                 class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
                 <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Ước mơ tuổi thơ</h3>
                 <p class="mt-3 text-gray-600 dark:text-gray-300">
@@ -25,7 +25,7 @@
                 class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
                 2017
             </div>
-            <div
+            <div data-aos="fade-left"
                 class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
                 <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Đam mê được định hình</h3>
                 <p class="mt-3 text-gray-600 dark:text-gray-300">
@@ -43,7 +43,7 @@
                 class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
                 2019
             </div>
-            <div
+            <div data-aos="fade-right"
                 class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
                 <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Hành trình khám phá</h3>
                 <p class="mt-3 text-gray-600 dark:text-gray-300">
@@ -61,7 +61,7 @@
                 class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
                 2022
             </div>
-            <div
+            <div data-aos="fade-left"
                 class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
                 <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Định hướng rõ ràng</h3>
                 <p class="mt-3 text-gray-600 dark:text-gray-300">
@@ -73,12 +73,12 @@
         </div>
 
         <!-- 2023: Công việc đầu tiên -->
-        <div class="relative">
+        <div   class="rel ative">
             <div
                 class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
                 2023
             </div>
-            <div
+            <div  data-aos="fade-right"
                 class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
                 <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Thử thách thực tế</h3>
                 <p class="mt-3 text-gray-600 dark:text-gray-300">
@@ -90,12 +90,12 @@
         </div>
 
         <!-- 2024: Bước ngoặt -->
-        <div class="relative">
+        <div  data-aos="fade-right" class="relative">
             <div
                 class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
                 2024
             </div>
-            <div
+            <div data-aos="fade-left"
                 class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
                 <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Tìm hướng đi mới</h3>
                 <p class="mt-3 text-gray-600 dark:text-gray-300">

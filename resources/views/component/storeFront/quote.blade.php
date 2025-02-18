@@ -1,5 +1,5 @@
-<div class="max-w-4xl mx-auto mb-8">
-    <blockquote class="italic group relative p-4 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/30 dark:to-purple-900/30 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-300 border-l-4 border-blue-500 dark:border-blue-400">
+<div data-aos="fade-right" class="max-w-4xl mx-auto mb-8">
+    <blockquote data-aos="fade-right" class="italic group relative p-4 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900/30 dark:to-purple-900/30 rounded-2xl shadow-xl hover:shadow-2xl transition-all duration-300 border-l-4 border-blue-500 dark:border-blue-400">
         <!-- Decorative elements -->
         <div class="absolute -top-4 -left-4 w-16 h-16 text-7xl text-blue-500/20 dark:text-blue-400/20 font-serif rotate-12 transition-transform group-hover:rotate-6">"</div>
         <div class="absolute -bottom-4 -right-4 w-16 h-16 text-7xl text-purple-500/20 dark:text-purple-400/20 font-serif -rotate-12 transition-transform group-hover:-rotate-6">"</div>

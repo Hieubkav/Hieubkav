@@ -3,7 +3,7 @@
     <!-- Grid Gallery -->
     <div class="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-7xl mx-auto">
         <!-- Ảnh Viblo (Hero Image) -->
-        <div class="col-span-2 md:col-span-2 md:row-span-2">
+        <div data-aos="flip-left" class="col-span-2 md:col-span-2 md:row-span-2">
             <div class="group relative h-[500px] md:h-[600px] overflow-hidden rounded-xl">
                 <img src="{{asset('images/viblo_source.webp')}}"
                      alt="Viblo achievements"
@@ -13,7 +13,7 @@
         </div>
 
         <!-- Ảnh HUST -->
-        <div class="col-span-2 md:col-span-2">
+        <div data-aos="flip-left" class="col-span-2 md:col-span-2">
             <div class="group relative h-[300px] overflow-hidden rounded-xl">
                 <img src="{{asset('images/hust_source.webp')}}"
                      alt="HUST certification"
@@ -23,7 +23,7 @@
         </div>
 
         <!-- Ảnh HSG -->
-        <div class="col-span-1 md:col-span-1">
+        <div data-aos="flip-left" class="col-span-1 md:col-span-1">
             <div class="group relative h-[250px] overflow-hidden rounded-xl">
                 <img src="{{asset('images/hsg_source.webp')}}"
                      alt="High school achievements"
@@ -33,7 +33,7 @@
         </div>
 
         <!-- Ảnh Score -->
-        <div class="col-span-1 md:col-span-1">
+        <div data-aos="flip-left" class="col-span-1 md:col-span-1">
             <div class="group relative h-[250px] overflow-hidden rounded-xl">
                 <img src="{{asset('images/score_source.webp')}}"
                      alt="Academic scores"
@@ -43,7 +43,7 @@
         </div>
 
         <!-- Ảnh Lớp trưởng -->
-        <div class="col-span-2 md:col-span-2">
+        <div data-aos="flip-left"  class="col-span-2 md:col-span-2">
             <div class="group relative h-[300px] overflow-hidden rounded-xl">
                 <img src="{{asset('images/lop_truong_source.webp')}}"
                      alt="Class monitor experience"

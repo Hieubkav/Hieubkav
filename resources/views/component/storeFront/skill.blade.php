@@ -1,6 +1,6 @@
-<div id="skills" class="max-w-6xl mx-auto p-6 space-y-8">
+<div   id="skills" class="max-w-6xl mx-auto p-6 space-y-8">
     <!-- Technical Skills Section -->
-    <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-6">
+    <div  data-aos="flip-up" class="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-6">
         <h2 class="text-3xl font-bold mb-6 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
             Kỹ năng chuyên môn
         </h2>
@@ -54,7 +54,7 @@
     </div>
 
     <!-- Additional Skills Section -->
-    <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-6">
+    <div data-aos="flip-down" class="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-6">
         <h2 class="text-3xl font-bold mb-6 bg-gradient-to-r from-green-600 to-teal-600 bg-clip-text text-transparent">
             Kỹ năng bổ trợ
         </h2>
