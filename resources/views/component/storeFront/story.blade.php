@@ -1,109 +1,135 @@
 <div id="story" class="max-w-4xl mx-auto p-6">
-    <div class="relative border-l-4 border-cyan-500 ml-8 py-16 space-y-12">
-        <!-- 2001: Thời thơ ấu -->
+    <div class="relative border-l-2 border-cyan-500 ml-8 py-12 space-y-16 before:absolute before:inset-0 before:bg-gradient-to-r before:from-transparent before:via-cyan-900/5 before:to-transparent before:dark:from-transparent before:dark:via-cyan-400/5 before:dark:to-transparent before:rounded-lg">
+        <!-- 2001: Khởi đầu -->
         <div class="relative">
-            <div
-                class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
-                2001
+            <div class="absolute -left-10 flex items-center justify-center w-8 h-8 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-mono font-bold shadow-lg shadow-cyan-500/20 dark:shadow-cyan-500/40 clip-path-hexagon">
+                <span class="text-xs glitch-text">2001</span>
             </div>
-            <div data-aos="fade-right"
-                class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
-                <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Ước mơ tuổi thơ</h3>
-                <p class="mt-3 text-gray-600 dark:text-gray-300">
-                    Từ nhỏ tôi rất đam mê với toán học.
-                    Tôi từng mơ ước tìm ra công thức toán học mới và trở nên nổi tiếng, tuy nhiên những thứ tôi tự tìm
-                    ra sau này đều đã được tìm ra từ lâu rồi
-                    . Tôi luôn khao khát tìm được một môn học
-                    vừa có thể tính toán, vừa cho phép sáng tạo.
+            <div class="ml-8 p-5 bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm rounded border-l-2 border-cyan-500 shadow-lg hover:shadow-cyan-300/20 dark:hover:shadow-cyan-500/20 transition-all duration-300 transform hover:-translate-y-1">
+                <h3 class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-600 dark:from-cyan-400 dark:to-blue-500">KHÁM PHÁ TIỀM NĂNG</h3>
+                <p class="mt-2 text-gray-700 dark:text-gray-300 font-light">
+                    Đam mê toán học từ nhỏ, khao khát tìm ra điều mới. Tìm kiếm lĩnh vực kết hợp tính toán và sáng tạo - dấu hiệu đầu tiên của một <span class="text-cyan-600 dark:text-cyan-400 font-semibold">lập trình viên</span>.
                 </p>
             </div>
         </div>
 
-        <!-- 2016-2017: Khám phá lập trình -->
+        <!-- 2017: Định hình -->
         <div class="relative">
-            <div
-                class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
-                2017
+            <div class="absolute -left-10 flex items-center justify-center w-8 h-8 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-mono font-bold shadow-lg shadow-cyan-500/20 dark:shadow-cyan-500/40 clip-path-hexagon">
+                <span class="text-xs glitch-text">2017</span>
             </div>
-            <div data-aos="fade-left"
-                class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
-                <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Đam mê được định hình</h3>
-                <p class="mt-3 text-gray-600 dark:text-gray-300">
-                    Năm lớp 10, tôi biết đến pascal và nhận ra lập trình là môn học tôi đang tìm kiếm bấy lâu.
-                    Năm lớp 11, tôi tham gia nhiêu hơn các cuộc thi tin học và tìm hiểu nhiều về các thuật toán.
-                    Mai mắn tôi đạt thành tích và tham gia HSG quốc gia tin học trẻ tại Cà Mau, thường thì thi HSG quốc
-                    gia sẽ được đi các tỉnh khác chơi nhưng xui thay năm đó cuộc thi lại tổ chức ở Cà Mau luôn :( .
+            <div class="ml-8 p-5 bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm rounded border-l-2 border-cyan-500 shadow-lg hover:shadow-cyan-300/20 dark:hover:shadow-cyan-500/20 transition-all duration-300 transform hover:-translate-y-1">
+                <h3 class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-600 dark:from-cyan-400 dark:to-blue-500">MÃ HÓA ĐAM MÊ</h3>
+                <p class="mt-2 text-gray-700 dark:text-gray-300 font-light">
+                    Pascal mở ra cánh cửa lập trình, khẳng định đam mê qua các cuộc thi tin học. Thành tích HSG quốc gia là <span class="text-cyan-600 dark:text-cyan-400 font-semibold">bước đầu</span> trong hành trình công nghệ.
                 </p>
             </div>
         </div>
 
-        <!-- 2019-2021: Đại học -->
+        <!-- 2019: Đại học -->
         <div class="relative">
-            <div
-                class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
-                2019
+            <div class="absolute -left-10 flex items-center justify-center w-8 h-8 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-mono font-bold shadow-lg shadow-cyan-500/20 dark:shadow-cyan-500/40 clip-path-hexagon">
+                <span class="text-xs glitch-text">2019</span>
             </div>
-            <div data-aos="fade-right"
-                class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
-                <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Hành trình khám phá</h3>
-                <p class="mt-3 text-gray-600 dark:text-gray-300">
-                    Tại Đại học Cần Thơ, tôi được tiếp xúc với C, JS, Java, C++.
-                    Tôi đã có đôi lúc xao lãng vì công việc làm thêm,
-                    Nên đến năm 3 tôi comeback với Java nhưng nhận ra phong cách học của mình thiên về thực hành sản phẩm
-                    hơn là lý thuyết.
+            <div class="ml-8 p-5 bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm rounded border-l-2 border-cyan-500 shadow-lg hover:shadow-cyan-300/20 dark:hover:shadow-cyan-500/20 transition-all duration-300 transform hover:-translate-y-1">
+                <h3 class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-600 dark:from-cyan-400 dark:to-blue-500">VƯỢT QUA GIỚI HẠN</h3>
+                <p class="mt-2 text-gray-700 dark:text-gray-300 font-light">
+                    Đại học Cần Thơ mang đến C, JS, Java, C++. Khám phá bản thân, nhận ra thiên hướng <span class="text-cyan-600 dark:text-cyan-400 font-semibold">thực chiến</span> hơn lý thuyết - chìa khóa thành công trong lĩnh vực công nghệ.
                 </p>
             </div>
         </div>
 
-        <!-- 2022: Laravel & Đồ án -->
+        <!-- 2022: Laravel -->
         <div class="relative">
-            <div
-                class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
-                2022
+            <div class="absolute -left-10 flex items-center justify-center w-8 h-8 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-mono font-bold shadow-lg shadow-cyan-500/20 dark:shadow-cyan-500/40 clip-path-hexagon">
+                <span class="text-xs glitch-text">2022</span>
             </div>
-            <div data-aos="fade-left"
-                class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
-                <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Định hướng rõ ràng</h3>
-                <p class="mt-3 text-gray-600 dark:text-gray-300">
-                    Tôi tìm đến PHP và Laravel, phát hiện ra đây là công cụ phát triển dự án nhanh chóng.
-                    Năm 4, tôi
-                    hoàn thành đồ án tốt nghiệp Vision - website thương mại điện tử bán kính sử dụng model landmark68 để gợi ý kính.
+            <div class="ml-8 p-5 bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm rounded border-l-2 border-cyan-500 shadow-lg hover:shadow-cyan-300/20 dark:hover:shadow-cyan-500/20 transition-all duration-300 transform hover:-translate-y-1">
+                <h3 class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-600 dark:from-cyan-400 dark:to-blue-500">TẠO DẤU ẤN</h3>
+                <p class="mt-2 text-gray-700 dark:text-gray-300 font-light">
+                    Khai phá PHP & Laravel, đòn bẩy phát triển dự án nhanh chóng. Tốt nghiệp với đồ án Vision - website TMĐT kết hợp AI để <span class="text-cyan-600 dark:text-cyan-400 font-semibold">đổi mới</span> trải nghiệm mua kính.
                 </p>
             </div>
         </div>
 
-        <!-- 2023: Công việc đầu tiên -->
-        <div   class="rel ative">
-            <div
-                class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
-                2023
+        <!-- 2023: Công việc -->
+        <div class="relative">
+            <div class="absolute -left-10 flex items-center justify-center w-8 h-8 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-mono font-bold shadow-lg shadow-cyan-500/20 dark:shadow-cyan-500/40 clip-path-hexagon">
+                <span class="text-xs glitch-text">2023</span>
             </div>
-            <div  data-aos="fade-right"
-                class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
-                <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Thử thách thực tế</h3>
-                <p class="mt-3 text-gray-600 dark:text-gray-300">
-                    Công việc đầu tiên tại Công ty TNHH Trang thiết bị Y tế Miền Tây với nhiều thử thách: từ việc xây
-                    dựng hệ thống quản lý sản phẩm, chụp ảnh sản phẩm, đến việc chuyển sang nền tảng Haravan. Dự án đấu
-                    thầu và hệ thống thay thế Misa gặp nhiều khó khăn về mặt kỹ thuật và sự chấp nhận từ người dùng.
+            <div class="ml-8 p-5 bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm rounded border-l-2 border-cyan-500 shadow-lg hover:shadow-cyan-300/20 dark:hover:shadow-cyan-500/20 transition-all duration-300 transform hover:-translate-y-1">
+                <h3 class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-600 dark:from-cyan-400 dark:to-blue-500">THỬ THÁCH THỰC TẾ</h3>
+                <p class="mt-2 text-gray-700 dark:text-gray-300 font-light">
+                    Đối mặt thách thức tại công việc đầu tiên: xây dựng hệ thống, quản lý sản phẩm, chuyển đổi nền tảng. Mỗi khó khăn là cơ hội <span class="text-cyan-600 dark:text-cyan-400 font-semibold">trui rèn</span> kỹ năng thực chiến.
                 </p>
             </div>
         </div>
 
-        <!-- 2024: Bước ngoặt -->
-        <div  data-aos="fade-right" class="relative">
-            <div
-                class="absolute -left-12 flex items-center justify-center w-8 h-8 rounded-full bg-cyan-500 text-white text-sm font-bold">
-                2024
+        <!-- 2024: Tương lai -->
+        <div class="relative">
+            <div class="absolute -left-10 flex items-center justify-center w-8 h-8 bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-mono font-bold shadow-lg shadow-cyan-500/20 dark:shadow-cyan-500/40 clip-path-hexagon">
+                <span class="text-xs glitch-text">2024</span>
             </div>
-            <div data-aos="fade-left"
-                class="ml-8 p-6 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-cyan-100 dark:hover:shadow-cyan-900 transition-all">
-                <h3 class="text-xl font-bold text-cyan-600 dark:text-cyan-400">Tìm hướng đi mới</h3>
-                <p class="mt-3 text-gray-600 dark:text-gray-300">
-                    Là một GenZ nhưng không vội vàng nhảy việc, sau 1 năm gắn bó, tôi quyết định tìm cơ hội mới nơi có
-                    thể thỏa sức đam mê lập trình của mình. Đây không phải một quyết định bốc đồng mà là kết quả của sự
-                    cân nhắc kỹ lưỡng về định hướng nghề nghiệp.
+            <div class="ml-8 p-5 bg-white/90 dark:bg-gray-900/90 backdrop-blur-sm rounded border-l-2 border-cyan-500 shadow-lg hover:shadow-cyan-300/20 dark:hover:shadow-cyan-500/20 transition-all duration-300 transform hover:-translate-y-1">
+                <h3 class="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-cyan-500 to-blue-600 dark:from-cyan-400 dark:to-blue-500">NÂNG CẤP TẦM NHÌN</h3>
+                <p class="mt-2 text-gray-700 dark:text-gray-300 font-light">
+                    Không mù quáng theo xu hướng, quyết định chuyển hướng sau 1 năm cống hiến. Tìm môi trường <span class="text-cyan-600 dark:text-cyan-400 font-semibold">đột phá</span> cho đam mê lập trình, từng bước xây dựng tương lai công nghệ.
                 </p>
             </div>
         </div>
     </div>
 </div>
+
+<style>
+.clip-path-hexagon {
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+}
+
+.glitch-text {
+    position: relative;
+}
+
+.glitch-text:hover::before,
+.glitch-text:hover::after {
+    content: attr(data-text);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.8;
+}
+
+.glitch-text:hover::before {
+    color: #0ff;
+    z-index: -1;
+    animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) both infinite;
+}
+
+.glitch-text:hover::after {
+    color: #f0f;
+    z-index: -2;
+    animation: glitch 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) reverse both infinite;
+}
+
+@keyframes glitch {
+    0% {
+        transform: translate(0);
+    }
+    20% {
+        transform: translate(-1px, 1px);
+    }
+    40% {
+        transform: translate(-1px, -1px);
+    }
+    60% {
+        transform: translate(1px, 1px);
+    }
+    80% {
+        transform: translate(1px, -1px);
+    }
+    to {
+        transform: translate(0);
+    }
+}
+</style>
